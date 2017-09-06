@@ -102,7 +102,6 @@ ENV/
 
 # Mac
 .DS_Store
-data/
 
 # Bokeh creates a html file and idk how to stop it
 gmap_plot.html
